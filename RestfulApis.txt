@@ -1,0 +1,5 @@
+GPRc
+CQRS
+Graphql
+OData
+RestAPI
