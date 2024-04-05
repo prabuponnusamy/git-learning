@@ -1,0 +1,10 @@
+Spring boot integration
+Camel
+Event driven solution
+  Kafka
+  Solace
+  AMQ Pub/Sub
+
+Enterprise integration pattern
+  Claimcheck
+  Message Router
